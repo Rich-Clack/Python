@@ -10,6 +10,8 @@ else:
  	print("A")            
  	if no>500:
  			print("D")
- 	if no<+500:
+ 	if no<=500:
  			print ("E") 		
  	print("1")            
+print("3")
+ 	
